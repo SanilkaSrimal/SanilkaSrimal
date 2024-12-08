@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanilka Srimal</h1>
-<h3 align="center">An undergraduate of IT from Srilanka</h3>
+<h3 align="center">An undergraduate student of IT from Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanilkasrimal&label=Profile%20views&color=0e75b6&style=flat" alt="sanilkasrimal" /> </p>
 
