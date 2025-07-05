@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanilka Srimal</h1>
-<h3 align="left">🎓 An undergraduate student of IT from Srilanka</h3>
-<h3 align="left">🚀 Passionate about JavaScript, Typescript and Java</h3>
-<h3 align="left">💻 Skilled in MERN stack, Next.js, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5</h3>
+<p align="left">🎓 An undergraduate student of IT from Srilanka</p>
+<p align="left">🚀 Passionate about JavaScript, Typescript and Java</p>
+<p align="left">💻 Skilled in MERN stack, Next.js, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanilkasrimal&label=Profile%20views&color=0e75b6&style=flat" alt="sanilkasrimal" /> </p>
 
