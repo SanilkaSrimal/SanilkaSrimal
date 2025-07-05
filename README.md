@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **IT project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Springboot**
 
 - 📫 How to reach me **sanilkasrimal01@gmail.com**
 
