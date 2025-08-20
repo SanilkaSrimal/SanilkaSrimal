@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanilka Srimal</h1>
-<p align="left">🎓 An undergraduate student of IT from Srilanka</p>
+<p align="left">🎓 An undergraduate student of SLIIT</p>
 <p align="left">🚀 Passionate about JavaScript, Typescript and Java</p>
 <p align="left">💻 Skilled in MERN stack, Next.js, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5</p>
 
