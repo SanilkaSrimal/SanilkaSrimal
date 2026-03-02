@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'M SHANILKA SRIMAL</h1>
+<h1 align="center">HI 👋, I'M SHANILKA SRIMAL</h1>
 <p align="left">🎓 An undergraduate student of SLIIT</p>
 <p align="left">💻 Intern fullstack developer</p>
 <p align="left">🚀 Passionate about JavaScript, Typescript and Java</p>
