@@ -13,7 +13,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SanilkaSrimal&show_icons=true&locale=en" alt="SanilkaSrimal" /></p>
 
 
-- 🔭 I’m currently working on **IT project**
+- 🔭 I’m currently working at **CeylonX corporation**
 
 - 🌱 I’m currently learning **Springboot**
 
